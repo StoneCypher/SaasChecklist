@@ -9,3 +9,6 @@ Want to make a SAAS?  Here's a checklist of shit to handle
 1. Security
 1. Cost to do business
 1. Marketing
+1. Monitoring
+    1. Uptime
+    1. [Google Webmaster Tools / Search Console](https://www.google.com/webmasters/tools/home?hl=en)
