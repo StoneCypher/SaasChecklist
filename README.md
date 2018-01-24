@@ -2,6 +2,8 @@
 Want to make a SAAS?  Here's a checklist of shit to handle
 
 1. Getting Started
+1. Designing the app
+1. Authentication
 1. Domains
 1. Hosting
 1. Programming language(s)
